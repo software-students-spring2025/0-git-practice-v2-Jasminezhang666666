@@ -7,3 +7,5 @@ What I found particularly compelling is the discussion on **mental exhaustion** 
 
 Beyond the mental and emotional aspects, the article also touches on how **software engineering is deeply intertwined with business objectives** and people management, not just coding and technical skills. This broader perspective provides a more holistic understanding of what it takes to succeed and thrive in the field. Overall, the article offers a realistic and relatable view of the software engineering profession, encouraging both current and aspiring engineers to be mindful of these challenges.
 
+## Response
+This is still Jasmine but from another Github account... I did fork someone else's repository but that person already did someone else's and couldn't fork mine. I'll just fork and push something here for the sake of completing my homework.
